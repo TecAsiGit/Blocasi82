@@ -1,0 +1,13 @@
+Categories:
+- Writing
+Description: |
+  Bloc de notas minimalista, 100 % offline y sin límites de caracteres.
+  Abre, modifica y comparte archivos TXT, HTML y CSV con total privacidad.
+  Interfaz oscura adaptable a móvil. Sin telemetría ni permisos innecesarios.
+License: MIT
+Name: Blocasi82
+SourceCode: https://github.com/TecAsiGit/Blocasi82
+Summary: Bloc de notas offline sin límites
+WebSite: https://github.com/TecAsiGit/Blocasi82
+AuthorName: TecAsiGit
+EOF 
